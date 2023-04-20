@@ -1,0 +1,15 @@
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\bin\Debug\net6.0\VC_InheritanceEg.exe
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\bin\Debug\net6.0\VC_InheritanceEg.deps.json
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\bin\Debug\net6.0\VC_InheritanceEg.runtimeconfig.json
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\bin\Debug\net6.0\VC_InheritanceEg.dll
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\bin\Debug\net6.0\VC_InheritanceEg.pdb
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.csproj.AssemblyReference.cache
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.AssemblyInfoInputs.cache
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.AssemblyInfo.cs
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.csproj.CoreCompileInputs.cache
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.dll
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\refint\VC_InheritanceEg.dll
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.pdb
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\VC_InheritanceEg.genruntimeconfig.cache
+C:\Users\sedielams\source\repos\VC_InheritanceEg\VC_InheritanceEg\obj\Debug\net6.0\ref\VC_InheritanceEg.dll
